@@ -2,3 +2,5 @@ add_lunch_combo angler-user
 add_lunch_combo bullhead-user
 add_lunch_combo marlin-user
 add_lunch_combo shamu-user
+add_lunch_combo manta-userdebug
+add_lunch_combo d855-userdebug
